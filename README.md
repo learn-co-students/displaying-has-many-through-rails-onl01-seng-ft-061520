@@ -1,6 +1,6 @@
 
 # Displaying Has Many Through Rails
-
+#
 ## Objectives
 
 1. Construct a bi-directional has_many through.
